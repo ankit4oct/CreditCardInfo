@@ -1,0 +1,15 @@
+PODS:
+  - CreditCardForm (0.1.0)
+  - Stripe (9.3.0)
+
+DEPENDENCIES:
+  - CreditCardForm
+  - Stripe
+
+SPEC CHECKSUMS:
+  CreditCardForm: caa6d61c8871491b6c00fff4727a7e3e9c6f152d
+  Stripe: 0f41a33a6fa3ac76ee668d7df3e2680c28b8ab1a
+
+PODFILE CHECKSUM: 782b3d2a05215469623f25e40efd1bad1b781429
+
+COCOAPODS: 1.2.0.beta.1

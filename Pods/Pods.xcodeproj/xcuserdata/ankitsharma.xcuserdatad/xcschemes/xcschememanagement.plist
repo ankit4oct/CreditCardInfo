@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>CreditCardForm-CreditCardForm.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>CreditCardForm.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-CreditCardInfo.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Stripe-Stripe.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Stripe.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>19A28B89179D0E4041979C41D8E2577A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1FC2F9C8CD68FEAB4FB0B75F9F5C4D77</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>20B619126C81C7A144A326FDB2EE05E4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>236B7357AA48EF3E0468F1CD11079CA3</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6059563C71F7B4A841593EA5B4AD90D3</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
